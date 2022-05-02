@@ -1,6 +1,6 @@
 # CSCI 213 Lab 10: Working with Git
 
-**Author: ** Noah Lindsay
+**Author:** Noah Lindsay
 
 This is the Git lab for CSCI 213 Software Development. One class was added, Car.java,
 which extends the abstract Vehicle class. The Car class contains the following:
@@ -12,4 +12,4 @@ which extends the abstract Vehicle class. The Car class contains the following:
 * the equals method
 * a copy method
 
-![This is a alt text.](download(1).jpeg)
+![This is a alt text.](download.jpeg)
